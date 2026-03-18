@@ -14,6 +14,22 @@ The goal is to stack moving blocks as accurately as possible to build the talles
 
 ---
 
+## Screenshots
+
+### Main Menu
+![Menu](Screenshots/Menu.png)
+
+### Gameplay Start
+![Gameplay Start](Screenshots/Gameplay_Start.png)
+
+### Mid Game
+![Mid Game](Screenshots/Gameplay_mid.png)
+
+### Game Over
+![Game Over](Screenshots/GameOver.png)
+
+---
+
 ## Overview
 
 The player must drop moving blocks on top of each other with precise timing.  
