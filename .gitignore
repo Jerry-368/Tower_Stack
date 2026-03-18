@@ -7,6 +7,10 @@ UserSettings/
 
 MemoryCaptures/
 
+# Visual Studio
+.vs/
+obj/
+
 *.csproj
 *.unityproj
 *.sln
@@ -19,4 +23,4 @@ MemoryCaptures/
 *.svd
 
 .DS_Store
-Thumbs.dbobj/ 
+Thumbs.db
