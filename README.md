@@ -100,3 +100,4 @@ To create a build:
 ## Author
 
 Jerry
+Unity Developer (Beginner transitioning to Game Dev)
